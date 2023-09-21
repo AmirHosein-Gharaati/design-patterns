@@ -1,15 +1,13 @@
 package com.mycompany.patterns.builder;
 
 import lombok.Getter;
-import lombok.Setter;
 
 @Getter
-@Setter
 public class Product {
-    private String productId;
-    private String name;
-    private String color;
-    private int price;
+    private final String productId;
+    private final String name;
+    private final String color;
+    private final int price;
 
     private Product(Builder builder) {
         this.productId = builder.productId;
