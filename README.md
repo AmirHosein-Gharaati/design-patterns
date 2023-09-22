@@ -18,3 +18,7 @@ You can explore the code and find the pattern examples:
 + [Builder](./src/main/java/com/mycompany/patterns/builder)
 + [Factory](./src/main/java/com/mycompany/patterns/factory)
 + [Singleton](./src/main/java/com/mycompany/patterns/singleton)
+
+### Structural Patterns
++ [Facade](./src/main/java/com/mycompany/patterns/facade)
++ [Composite](./src/main/java/com/mycompany/patterns/composite)
