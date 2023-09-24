@@ -23,3 +23,4 @@ You can explore the code and find the pattern examples:
 + [Facade](./src/main/java/com/mycompany/patterns/facade)
 + [Composite](./src/main/java/com/mycompany/patterns/composite)
 + [Adapter](./src/main/java/com/mycompany/patterns/adapter)
++ [Proxy](./src/main/java/com/mycompany/patterns/proxy)
