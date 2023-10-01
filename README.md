@@ -24,3 +24,6 @@ You can explore the code and find the pattern examples:
 + [Composite](./src/main/java/com/mycompany/patterns/composite)
 + [Adapter](./src/main/java/com/mycompany/patterns/adapter)
 + [Proxy](./src/main/java/com/mycompany/patterns/proxy)
+
+### Behavioral Patterns
++ [Strategy](./src/main/java/com/mycompany/patterns/strategy)
