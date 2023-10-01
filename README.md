@@ -28,3 +28,4 @@ You can explore the code and find the pattern examples:
 ### Behavioral Patterns
 + [Strategy](./src/main/java/com/mycompany/patterns/strategy)
 + [Observer](./src/main/java/com/mycompany/patterns/observer)
++ [Mediator](./src/main/java/com/mycompany/patterns/mediator)
